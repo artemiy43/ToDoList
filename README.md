@@ -1,2 +1,5 @@
-# ToDoList
-Task for interview for job. Todo app created by Vue.
+# Тестовое задание №1. Todo List.
+
+## Проект реализован на Vue + Vite + Pinia.
+
+### Запуск проекта осуществляется командой "npm run dev". Выполнил задание - Бондарь Артемий
